@@ -1,0 +1,9 @@
+[Desktop Entry]
+Terminal=false
+X-GNOME-Autostart-enabled=true
+Name=GitHub Desktop Notifications
+Comment=Desktop
+Categories=Utility;
+Type=Application
+Version=1.0
+Exec={PATH}
